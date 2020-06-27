@@ -193,8 +193,9 @@ ul li
 .calendar ul li:hover
 {
     background-color: salmon;
+    color: #fff;
     height: 10rem;
-    width:5rem;
+    width: 5rem;
     border-radius: 50px;
     text-align: center;
     transition: all .3s;
